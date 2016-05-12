@@ -4,6 +4,7 @@
 public class HelloWorld{
 public static void main(String args[])
 {
+        // Prints welcome message on screen
 	System.out.println("Welcome to Java");
 }
 }
